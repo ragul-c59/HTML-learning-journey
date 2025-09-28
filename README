@@ -1,0 +1,30 @@
+# 🌐 HTML Practice Repository
+
+This repository is dedicated to learning and practicing **HTML (HyperText Markup Language)**.  
+It contains multiple example files, exercises, and small projects to strengthen your web development basics.
+
+---
+
+## 📌 Purpose
+The goal of this repository is to:
+- Build a strong foundation in HTML.
+- Understand the structure and semantic meaning of HTML elements.
+- Practice creating layouts, forms, and tables.
+- Experiment with links, images, and multimedia tags.
+
+---
+
+## 📂 Contents
+- **01-Basics** → HTML boilerplate, headings, paragraphs, text formatting.  
+- **02-Links & Media** → Working with `<a>`, `<img>`, `<video>`, `<audio>`.  
+- **03-Forms & Tables** → Input fields, checkboxes, radio buttons, and tables.  
+- **04-Semantic HTML** → Using `<header>`, `<footer>`, `<nav>`, `<section>`, `<article>`.  
+- **Mini Projects** → Small practice pages (portfolio layout, landing page, contact form).  
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+
